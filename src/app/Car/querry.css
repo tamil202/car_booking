@@ -1,0 +1,220 @@
+@media only screen and (max-width:1400px) {}
+
+@media only screen and (max-width:1200px) {}
+
+@media only screen and (max-width:992px) {
+
+    .car-home-1 {
+        display: flex !important;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center !important;
+        margin-bottom: 15px;
+    }
+
+    .drive-info small {
+        max-width: 200px !important;
+
+    }
+
+    .deals-img {
+        width: 100% !important;
+        height: auto !important;
+        margin-bottom: 15px !important;
+        object-fit: cover !important;
+    }
+
+    .rental-deals h4 {
+        font-size: 18px !important;
+        font-weight: 500 !important;
+    }
+
+    .rental-deals span {
+        font-size: 16px !important;
+
+    }
+
+    .rental-deals ul li {
+        font-size: 14px !important;
+        font-weight: 400 !important;
+
+    }
+
+    .our {
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .taxi p {
+        font-size: 12px !important;
+        max-width: 400px !important;
+    }
+
+    .car {
+        width: 450px !important;
+        height: 320px !important;
+    }
+
+    .last-3 {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width:768px) {}
+
+@media only screen and (max-width:576px) {
+
+
+    .car-0 {
+        height: 28px !important;
+        width: 100%;
+        max-width: 200px !important;
+    }
+
+    .car-home h1 {
+        font-weight: 600 !important;
+        font-size: 22px !important;
+
+    }
+
+    .car-home h1 span {
+        font-weight: 600 !important;
+        font-size: 20px !important;
+
+    }
+
+    .car-home span {
+        font-weight: 400 !important;
+        font-size: 16px !important;
+    }
+
+    .form {
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+    }
+
+    .flex-column>label {
+        font-weight: 500 !important;
+        font-size: 14px !important;
+    }
+
+    .input {
+        font-size: 12px !important;
+        font-weight: 500 !important;
+    }
+
+    .button-submit {
+        font-size: 15px !important;
+        font-weight: 500 !important;
+        border-radius: 5px !important;
+    }
+
+    .car-home .car-1 {
+        margin-top: 10px !important;
+    }
+
+    .Drive {
+        font-size: 20px !important;
+        font-weight: 500 !important;
+    }
+
+    .drive-details:nth-child(2),
+    .drive-details:nth-child(4),
+    .drive-details:nth-child(6) {
+        margin-top: 25px !important;
+    }
+
+    .drive-details:nth-child(3),
+    .drive-details:nth-child(5) {
+        display: none !important;
+    }
+
+    .deals-img {
+        width: 100% !important;
+        height: auto !important;
+        margin-bottom: 15px !important;
+        object-fit: cover !important;
+    }
+
+    .rental-deals h4 {
+        font-size: 20px !important;
+        font-weight: 500 !important;
+    }
+
+    .rental-deals span {
+        font-size: 18px !important;
+
+    }
+
+    .rental-deals ul li {
+        font-size: 14px !important;
+        font-weight: 400 !important;
+
+    }
+
+    .our {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center;
+    }
+
+    .car {
+        width: 279px !important;
+        height: 320px !important;
+    }
+
+    .car-swiper p {
+        font-size: 14px !important;
+        font-weight: 500 !important;
+    }
+
+    .car-swiper h2 {
+        font-size: 15px !important;
+        font-weight: 500 !important;
+    }
+
+    .car-swiper small {
+        font-size: 13px !important;
+        font-weight: 500 !important;
+
+    }
+
+    .taxhead {
+        font-size: 20px !important;
+        font-weight: 500 !important;
+    }
+
+    .itaxi {
+        width: 500px !important;
+        height: 200px !important;
+    }
+
+    .taxi p {
+        font-size: 12px !important;
+        font-weight: 500 !important
+    }
+
+    .car-last-tech {
+        background-size: contain !important;
+        background-repeat: no-repeat !important;
+        height: 45vh !important;
+    }
+
+    .car-last p {
+        margin-top: 15px !important;
+        font-size: 16px !important;
+        font-weight: 500 !important;
+    }
+
+    .car-last button {
+        margin-bottom: 18px !important;
+    }
+
+    .last-3 {
+        display: none !important;
+    }
+
+    .last {
+        font-size: 14px !important;
+    }
+
+}
