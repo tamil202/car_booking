@@ -1,11 +1,6 @@
 import { Geist } from "next/font/google";
 import "./globals.css";
-import 'bootstrap/dist/css/bootstrap.min.css'; // ✅ CSS is fine here
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+import 'bootstrap/dist/css/bootstrap.min.css'; 
 
 export const metadata = {
   title: "Create Next App",
